@@ -1,4 +1,4 @@
-# Demand-Forecasting
+# AV-JanataHack-Demand-Forecasting
 Approach to "Analytics Vidhya JanataHack Demand Forecasting"
 
 Hosted at: https://datahack.analyticsvidhya.com/contest/janatahack-demand-forecasting/#ProblemStatement
